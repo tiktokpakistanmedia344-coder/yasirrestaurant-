@@ -1,0 +1,1356 @@
+# MASTER PROMPT — BUILD A COMPLETE PREMIUM RESTAURANT WEBSITE WITH FOOD ORDERING, DEMO QR PAYMENT & TABLE BOOKING
+
+You are an expert full-stack developer, UI/UX designer, restaurant website specialist, and e-commerce application developer.
+
+I am providing two reference images. Carefully analyze both images and use them as the visual design reference.
+
+Your task is to build a complete, professional, premium, fully functional restaurant website for:
+
+**YASIR RESTAURANT & GRILL HOUSE**
+
+This must NOT be just a landing page or a static website. Build a complete interactive restaurant website with a large food menu, search functionality, seven food categories, individual food details, shopping and ordering flow, quantity controls, customer information forms, demo QR payment, order confirmation, five promotional deals, restaurant information, and an interactive table reservation system.
+
+Everything must be implemented in the website. Do not leave buttons, popups, forms, or interactions unfinished.
+
+---
+
+# 1. DESIGN REFERENCE — FOLLOW THE UPLOADED IMAGES
+
+Use the first uploaded image as the main website design reference.
+
+Use the second uploaded image as the reference for the reservation CTA section.
+
+### Design style
+
+Create a premium, luxurious, modern restaurant website with:
+
+- Deep black and charcoal backgrounds.
+- Attractive orange and burnt-orange accent colors.
+- Elegant golden highlights.
+- Premium food photography.
+- Beautiful white typography.
+- Professional serif headings.
+- Smooth animations.
+- Modern restaurant cards.
+- Elegant popup windows.
+- Premium image layouts.
+- Beautifully designed buttons.
+
+Suggested color palette:
+
+- Main background: #090909
+- Secondary background: #171717
+- Card background: #202020
+- Primary orange: #F47812
+- Secondary orange: #D96509
+- Gold: #C9A45C
+- Main text: #FFFFFF
+- Secondary text: #C2C2C2
+
+Use premium typography such as Playfair Display for headings and Inter or Poppins for normal text.
+
+The website must look visually similar to the uploaded reference but must use the YASIR RESTAURANT & GRILL HOUSE branding.
+
+Do not use the sample restaurant name Flavoria from the reference image.
+
+### Important design requirements
+
+- Large, beautiful food photography.
+- Professional food presentation.
+- Smooth image hover effects.
+- Elegant orange and gold buttons.
+- Rounded food cards.
+- Attractive modal windows.
+- Beautiful responsive layouts.
+- Premium restaurant atmosphere.
+
+Do not create a generic template.
+
+---
+
+# 2. RESTAURANT BUSINESS INFORMATION
+
+Use the following real business details throughout the website.
+
+Restaurant Name: Yasir Restaurant & Grill House
+
+Rating: 4.7 / 5
+
+Customer Reviews: 580+ Reviews
+
+Category: Fine Dining, Continental & Traditional BBQ
+
+Address: Plot 45-C, Main Boulevard, Gulberg III, Lahore, Pakistan
+
+Opening Hours: Monday to Sunday, 12:30 PM – 01:00 AM.
+
+WhatsApp Number: +92 300 4567890
+
+Order Notification Email: tiktokpakitanmedia344@gmail.com
+
+Signature Specialties:
+
+- Smoked BBQ Platter
+- Charcoal Grilled Steaks
+- Handcrafted Burgers
+
+WhatsApp message:
+
+"Hello Yasir Restaurant, I would like to reserve a table / order food delivery."
+
+WhatsApp link:
+
+https://wa.me/923004567890
+
+Use the correct restaurant name, contact information, address, and opening hours throughout the website.
+
+Do not use the fake business address or phone number visible in the design reference.
+
+---
+
+# 3. WEBSITE NAVIGATION
+
+Create a premium sticky navigation bar.
+
+Left side:
+
+YASIR  
+RESTAURANT & GRILL HOUSE
+
+Right side:
+
+1. Home
+2. Menu
+3. About Us
+4. Our Specialties
+5. Big Deals
+6. Gallery
+7. Visit Us
+8. Contact
+
+Add an orange CTA button:
+
+BOOK A TABLE
+
+### Navigation functionality
+
+When someone clicks Home, show only the Home section.
+
+When someone clicks About Us, navigate to the separate About Us section.
+
+When someone clicks Menu, navigate to the menu section.
+
+When someone clicks Our Specialties, navigate to the specialties section.
+
+When someone clicks Big Deals, navigate to Big Deals.
+
+When someone clicks Gallery, navigate to Gallery.
+
+When someone clicks Visit Us, navigate to restaurant location and opening hours.
+
+When someone clicks Contact, navigate to the contact section.
+
+IMPORTANT:
+
+Do not repeat the Home section content inside About Us.
+
+Every section must have its own independent heading, content, and purpose.
+
+On mobile, use a professional hamburger menu.
+
+---
+
+# 4. HOME SECTION
+
+Create a beautiful full-width hero section inspired by the first reference image.
+
+Use a large professional photograph of grilled steak, pasta, BBQ, or a beautiful restaurant food platter.
+
+The food image should occupy a large portion of the hero section.
+
+Left side text:
+
+Small heading:
+
+WELCOME TO YASIR RESTAURANT
+
+Main heading:
+
+GOOD FOOD  
+GREAT MOOD.
+
+Supporting description:
+
+"Experience delicious food, unforgettable flavors, and a premium dining experience at Yasir Restaurant & Grill House."
+
+Add two buttons:
+
+VIEW OUR MENU →
+
+RESERVE NOW →
+
+The View Our Menu button must scroll to the Menu section.
+
+The Reserve Now button must open the table booking popup.
+
+Below the hero, create a beautiful light cream or dark contrasting feature strip with four benefits:
+
+1. FRESH INGREDIENTS
+   Delicious food prepared with care.
+
+2. SIGNATURE BBQ
+   Discover rich grilled flavors.
+
+3. QUALITY SERVICE
+   A welcoming dining experience.
+
+4. MADE WITH LOVE
+   Great food for memorable moments.
+
+Use professional icons.
+
+Keep this section clean, attractive, and visually close to the uploaded reference image.
+
+---
+
+# 5. MENU SECTION — MOST IMPORTANT PART
+
+This is the main feature of the website.
+
+Build a complete interactive restaurant menu system.
+
+Section heading:
+
+OUR MENU
+
+Subheading:
+
+"Discover Your Next Favorite Meal"
+
+The menu must contain SEVEN MAIN FOOD CATEGORIES.
+
+Create the following categories:
+
+1. BURGERS
+2. TIKKA & BBQ
+3. STEAKS & GRILLS
+4. PIZZA
+5. PASTA
+6. RICE & TRADITIONAL FOOD
+7. STARTERS, SIDES & DESSERTS
+
+### Menu quantity
+
+Populate each category with at least 20 different food products.
+
+This means at least 140 menu products in total.
+
+The categories must contain genuinely different food names, not the same product repeated with slightly different names.
+
+Examples:
+
+BURGERS:
+- Classic Beef Burger
+- Smoky BBQ Burger
+- Double Cheese Burger
+- Zinger Burger
+- Crispy Chicken Burger
+- Jalapeno Beef Burger
+- Mushroom Swiss Burger
+- Spicy Grill Burger
+- Double Patty Burger
+- Chicken Cheese Burger
+- BBQ Crunch Burger
+- Crispy Zinger Supreme
+- Grilled Chicken Burger
+- Ultimate Beef Burger
+- Smoked Cheese Burger
+- Peri Peri Burger
+- Mexican Burger
+- Loaded Beef Burger
+- Signature Yasir Burger
+- Premium Double Stack Burger
+
+Continue creating at least 20 unique products.
+
+TIKKA & BBQ:
+- Chicken Tikka
+- Malai Boti
+- Chicken Boti
+- Beef Bihari Boti
+- Chicken Reshmi Kebab
+- Seekh Kebab
+- Beef Seekh Kebab
+- Chicken Achari Tikka
+- Afghani Boti
+- Tandoori Chicken
+- Smoky BBQ Wings
+- BBQ Drumsticks
+- Chicken Cheese Kebab
+- Traditional Mixed BBQ
+- Special Grill Platter
+- Smoky Beef Tikka
+- Chicken Malai Tikka
+- Spicy Chicken Tikka
+- Signature BBQ Platter
+- Family BBQ Platter
+
+Continue creating at least 20 unique products.
+
+Do the same for all remaining categories.
+
+Use realistic sample prices in PKR for this demo website. All generated menu names, prices, and descriptions must be stored in one centralized editable data structure so they can easily be changed later.
+
+IMPORTANT: Treat generated products and prices as illustrative demo menu data, not verified items or prices offered by the real restaurant.
+
+---
+
+# 6. MENU SEARCH SYSTEM
+
+At the top of the Menu section create a beautiful search bar.
+
+Placeholder:
+
+"Search your favorite food..."
+
+Add a search icon.
+
+Search functionality must work instantly.
+
+Examples:
+
+If someone searches "Burger", show all matching burgers.
+
+If someone searches "Chicken", show all products containing Chicken.
+
+If someone searches "Tikka", show tikka-related products.
+
+If someone searches "Pizza", show pizza items.
+
+Search must work across all seven categories.
+
+Also add category filter buttons:
+
+ALL ITEMS  
+BURGERS  
+TIKKA & BBQ  
+STEAKS  
+PIZZA  
+PASTA  
+RICE & TRADITIONAL  
+STARTERS & DESSERTS
+
+When someone clicks a category, only products from that category should appear.
+
+Add an attractive active category indicator.
+
+Show the number of matching products.
+
+If nothing matches, display:
+
+"No food items found. Try another search."
+
+Add a clear-search option.
+
+---
+
+# 7. INDIVIDUAL FOOD PRODUCT CARDS
+
+Every product must have its own attractive card.
+
+Create a consistent professional grid layout.
+
+Desktop:
+3 or 4 cards per row.
+
+Tablet:
+2 cards per row.
+
+Mobile:
+1 or 2 cards per row depending on screen width.
+
+### Each card must contain:
+
+1. Large, beautiful food photograph.
+2. Large and clearly visible food name below the image.
+3. One-line food description.
+4. Food price in PKR.
+5. An orange BUY NOW button.
+
+The bottom row should clearly display the price and the Buy button.
+
+The Buy button must contain a right-facing arrow.
+
+Button example:
+
+BUY NOW →
+
+The button should have an elegant hover animation.
+
+When someone clicks BUY NOW, open the individual food detail popup.
+
+Every food card must open its own correct product details.
+
+Do not make all products open the same popup content.
+
+Each product must have its own:
+
+- Product name.
+- Food image.
+- Price.
+- Description.
+- Category.
+- Unique product ID.
+
+Use high-quality, appropriate food photographs.
+
+Never show an incorrect image for a product.
+
+Add image fallbacks for broken image URLs.
+
+---
+
+# 8. FOOD DETAIL POPUP — PRODUCT INFORMATION
+
+When someone clicks BUY NOW on a food card, open a large premium product-detail popup.
+
+This popup must be professionally designed.
+
+Use a dark charcoal background with elegant orange and gold highlights.
+
+Desktop layout:
+
+TWO-COLUMN POPUP.
+
+LEFT SIDE:
+
+- One large food photograph.
+- Product price displayed prominently underneath the photograph.
+
+RIGHT SIDE:
+
+- Large food name heading.
+- Five-line detailed food description.
+- Category name.
+- Quantity selector.
+- Total price calculation.
+- Main ORDER NOW button.
+
+### Product description
+
+Show a proper, appealing description of approximately five lines.
+
+Each product should have its own relevant description.
+
+Do not use the exact same description for every product.
+
+### Quantity selector
+
+Create a professional quantity control:
+
+[ – ] 1 [ + ]
+
+The user can increase or decrease the quantity.
+
+Allow customers to order multiple quantities.
+
+Minimum quantity: 1.
+
+Calculate the total price automatically.
+
+Formula:
+
+Unit Price × Quantity = Total Amount
+
+Display the updated total amount immediately whenever the quantity changes.
+
+Do not refresh the page when changing quantity.
+
+### Main button
+
+Display only one primary action button:
+
+ORDER NOW →
+
+When the user clicks ORDER NOW, close or transition from the product detail popup and open the Customer Information popup.
+
+Do not add unnecessary extra action buttons.
+
+### Mobile behavior
+
+On mobile, show the image first, followed by the name, description, quantity selector, price, and ORDER NOW button.
+
+The popup should be scrollable without overflowing the screen.
+
+Add a clear close icon.
+
+---
+
+# 9. CUSTOMER INFORMATION POPUP
+
+After clicking ORDER NOW, show another popup.
+
+Heading:
+
+COMPLETE YOUR ORDER
+
+Subheading:
+
+"Please enter your details to continue."
+
+Create the following form fields:
+
+1. Full Name
+2. Email Address
+3. Phone Number
+4. Location / Delivery Address
+
+Optional field:
+
+Special Instructions.
+
+Display an order summary:
+
+- Selected Food Name
+- Food Image Thumbnail
+- Unit Price
+- Quantity
+- Total Amount
+
+Make sure the order summary contains the correct information from the previous popup.
+
+Add a main button:
+
+CONTINUE TO DEMO PAYMENT →
+
+Validate all required fields.
+
+Do not allow users to continue if required information is missing.
+
+Use proper phone number and email validation.
+
+When the button is clicked, open the Demo QR Payment popup.
+
+---
+
+# 10. DEMO QR PAYMENT SYSTEM
+
+IMPORTANT: This entire website is a demonstration project.
+
+Create a real, machine-readable QR code for each demo transaction, but DO NOT connect it to any real bank account or payment provider.
+
+The QR code must clearly be marked:
+
+DEMO PAYMENT ONLY — NOT A REAL PAYMENT.
+
+The QR code should encode a unique demo transaction reference and order details. It must not contain bank credentials, passwords, card details, or other sensitive payment data.
+
+### Payment popup design
+
+Heading:
+
+SCAN TO COMPLETE YOUR ORDER
+
+Display:
+
+- Large QR code in the center.
+- Order reference number.
+- Food name.
+- Quantity.
+- Total amount in PKR.
+- Customer name.
+- Customer email.
+- Payment status: PENDING DEMO PAYMENT.
+
+Under the QR code display:
+
+"Scan this demonstration QR code to view the demo transaction."
+
+Also show:
+
+"Order notification destination: tiktokpakitanmedia344@gmail.com"
+
+Create a clearly visible demo button:
+
+SIMULATE SUCCESSFUL PAYMENT
+
+This button simulates the payment success event.
+
+Do not claim that merely scanning the code has transferred money.
+
+When the customer clicks the simulated payment button:
+
+1. Change the order payment status to DEMO PAYMENT SUCCESSFUL.
+2. Replace the QR code with a beautiful animated green check mark.
+3. Show a successful confirmation message.
+4. Show the food name that the customer ordered.
+5. Show the total amount.
+6. Show the order reference number.
+7. Show customer details.
+
+Use a smooth animation when replacing the QR code with the green tick.
+
+### Successful order confirmation text
+
+Heading:
+
+ORDER RECEIVED SUCCESSFULLY!
+
+Display a personalized message such as:
+
+"Your demo order for [FOOD NAME] has been successfully recorded. We have received your order details and quantity, and your order summary is ready for review. Thank you for choosing Yasir Restaurant & Grill House!"
+
+Clearly mention:
+
+"This is a simulated demo transaction. No real payment has been processed and no actual restaurant order has been placed."
+
+Add a button:
+
+BACK TO MENU
+
+When clicked, return the customer to the menu section.
+
+Do not lose the demo order record when closing the popup.
+
+---
+
+# 11. ORDER EMAIL AND CUSTOMER INFORMATION RECORD
+
+Use this notification email address:
+
+tiktokpakitanmedia344@gmail.com
+
+Capture all the following information for every demo order:
+
+- Customer name.
+- Customer email.
+- Phone number.
+- Location / delivery address.
+- Food name.
+- Product category.
+- Unit price.
+- Quantity.
+- Total amount.
+- Order reference.
+- Date and time.
+- Demo payment status.
+
+Create a complete order summary using this information.
+
+If an email service is configured, implement a server-side email notification system that sends these order details to tiktokpakitanmedia344@gmail.com.
+
+If no email credentials are available, do not pretend that an email was sent. Save the order safely in browser storage for the demo and provide a button that opens a pre-filled email draft addressed to tiktokpakitanmedia344@gmail.com.
+
+Use a mailto fallback.
+
+Do not expose private email-service API keys in frontend code.
+
+Provide a visible order-summary email destination to the customer after successful demo submission.
+
+---
+
+# 12. BIG DEALS SECTION
+
+Create a separate section called:
+
+BIG DEALS
+
+Subtitle:
+
+"Special Combos. Better Value. More Flavor."
+
+Create exactly FIVE large promotional deal cards.
+
+Each card must display:
+
+- Large beautiful food platter image.
+- Deal name.
+- Appealing short description.
+- Items included in the deal.
+- Sample discounted price in PKR.
+- BUY THIS DEAL → button.
+
+Example deals:
+
+DEAL 01 — FAMILY BBQ FEAST
+
+DEAL 02 — BURGER LOVERS COMBO
+
+DEAL 03 — STEAK NIGHT SPECIAL
+
+DEAL 04 — FRIENDS PARTY PLATTER
+
+DEAL 05 — YASIR GRAND FEAST
+
+Give each deal a beautiful, different food image.
+
+Make the images large and visually impressive.
+
+### Big Deal functionality
+
+The deals must use exactly the same ordering system as individual food products.
+
+When the customer clicks BUY THIS DEAL:
+
+1. Open the deal detail popup.
+2. Display the large deal image on the left.
+3. Display the deal name on the right.
+4. Display a detailed description.
+5. Display the deal price.
+6. Display the included food items.
+7. Add quantity controls.
+8. Add the ORDER NOW button.
+
+When ORDER NOW is clicked:
+
+Open the same customer information popup.
+
+Then open the same demo QR payment popup.
+
+After simulated success, show the deal name in the success confirmation.
+
+All five deals must work independently.
+
+Deal prices and contents are illustrative demo data and must be editable.
+
+---
+
+# 13. ABOUT US SECTION
+
+Create an independent About Us section.
+
+Do not repeat the Home hero text here.
+
+Heading:
+
+A PLACE WHERE GOOD FOOD & GREAT MOMENTS COME TOGETHER
+
+Description:
+
+"At Yasir Restaurant & Grill House, we bring together fine dining, continental favorites, and traditional BBQ flavors. Our goal is to make every dining experience enjoyable, memorable, and full of great taste."
+
+Add an attractive restaurant interior image.
+
+Create three highlights:
+
+- Great Food Selection
+- Memorable Dining Experience
+- Passion for Grilled Flavors
+
+Use a premium two-column image-and-text design.
+
+Do not invent restaurant history, awards, chef credentials, or unsupported claims.
+
+---
+
+# 14. GALLERY SECTION
+
+Create an attractive restaurant photo gallery.
+
+Include:
+
+- BBQ platters.
+- Beef steaks.
+- Burgers.
+- Tikka.
+- Restaurant interior.
+- Food presentation.
+- Dining tables.
+- Grilled food.
+
+Use a responsive image grid.
+
+When someone clicks a photo, open a larger lightbox popup.
+
+Add a smooth image transition.
+
+---
+
+# 15. VISIT US SECTION
+
+Create a premium Visit Us section.
+
+Heading:
+
+VISIT YASIR RESTAURANT & GRILL HOUSE
+
+Display:
+
+★★★★★
+
+4.7 / 5
+
+580+ CUSTOMER REVIEWS
+
+Add a location and opening hours layout.
+
+### Left side: LOCATION
+
+Plot 45-C, Main Boulevard, Gulberg III, Lahore, Pakistan.
+
+Add a Google Maps embed using the restaurant address where possible.
+
+Also add a working GET DIRECTIONS button linking to:
+
+https://www.google.com/maps/search/?api=1&query=Yasir%20Restaurant%20%26%20Grill%20House%2C%20Plot%2045-C%2C%20Main%20Boulevard%2C%20Gulberg%20III%2C%20Lahore
+
+### Right side: OPENING HOURS
+
+Show every day separately:
+
+MONDAY — 12:30 PM to 01:00 AM
+
+TUESDAY — 12:30 PM to 01:00 AM
+
+WEDNESDAY — 12:30 PM to 01:00 AM
+
+THURSDAY — 12:30 PM to 01:00 AM
+
+FRIDAY — 12:30 PM to 01:00 AM
+
+SATURDAY — 12:30 PM to 01:00 AM
+
+SUNDAY — 12:30 PM to 01:00 AM
+
+Display the fact that the restaurant closes at 1:00 AM the following day.
+
+Use beautiful clock and location icons.
+
+Do not generate fake customer reviews.
+
+---
+
+# 16. TABLE BOOKING SECTION — COMPLETE POPUP SYSTEM
+
+This is another major feature.
+
+Create a beautiful reservation section inspired by my second uploaded reference image.
+
+Use:
+
+- Black background.
+- Thin elegant gold border.
+- Large serif heading.
+- Small orange/gold subtitle.
+- Attractive centered CTA button.
+
+Main small heading:
+
+INSTANT TABLE RESERVATIONS
+
+Main heading:
+
+YOUR TABLE IS WAITING
+
+Description:
+
+"Planning a special dinner or a family gathering? Choose your preferred seating and reserve a table at Yasir Restaurant & Grill House."
+
+Main button:
+
+BOOK A TABLE →
+
+This button must open the table selection popup.
+
+### STEP 1: CHOOSE YOUR TABLE
+
+Popup heading:
+
+CHOOSE YOUR TABLE
+
+Subheading:
+
+"Select the seating experience you prefer."
+
+Show FOUR beautiful table options with separate photographs.
+
+OPTION 1 — OUTDOOR DINING
+
+Description:
+
+"Enjoy your meal in an open-air seating environment with a relaxed outdoor dining atmosphere."
+
+OPTION 2 — INDOOR DINING
+
+Description:
+
+"Enjoy a comfortable dining experience in our elegant indoor restaurant setting."
+
+OPTION 3 — FAMILY DINING
+
+Description:
+
+"A family-oriented seating option designed for enjoying meals together."
+
+OPTION 4 — PREMIUM PRIVATE DINING
+
+Description:
+
+"A more private seating experience suitable for special gatherings and occasions."
+
+These are demo seating choices; make their names, descriptions, and images editable.
+
+Each option must include:
+
+- Different image.
+- Table name.
+- Short description.
+- Select Table button.
+
+When someone clicks any table option, automatically switch to the next booking popup.
+
+Highlight the selected table choice.
+
+### STEP 2: CUSTOMER RESERVATION FORM
+
+Heading:
+
+COMPLETE YOUR TABLE BOOKING
+
+Display the selected table type and its image.
+
+Create the following form:
+
+1. Full Name
+2. Email Address
+3. Phone Number
+4. Location
+5. Reservation Date
+6. Reservation Time
+7. Number of Guests
+8. Special Instructions (optional).
+
+Use proper date and time inputs.
+
+Prevent users from selecting past dates.
+
+Show the selected seating option in the booking summary.
+
+Add one main button:
+
+CONTINUE TO BOOKING QR →
+
+Validate all required fields.
+
+When clicked, open the table reservation demo QR popup.
+
+### STEP 3: TABLE BOOKING QR POPUP
+
+Heading:
+
+SCAN TO COMPLETE YOUR TABLE RESERVATION
+
+Show a large machine-readable demo QR code.
+
+Display:
+
+- Selected seating option.
+- Customer name.
+- Reservation date.
+- Reservation time.
+- Number of guests.
+- Phone number.
+- Booking reference number.
+
+Add a clear label:
+
+DEMO RESERVATION QR — NOT A REAL PAYMENT.
+
+Add a button:
+
+SIMULATE SUCCESSFUL BOOKING PAYMENT
+
+When clicked:
+
+- Replace QR code with a beautiful green tick.
+- Change status to DEMO BOOKING REQUEST RECEIVED.
+- Show a personalized booking confirmation.
+- Display the selected table type.
+- Show reservation date and time.
+- Show customer name and booking reference.
+
+Confirmation heading:
+
+YOUR TABLE REQUEST HAS BEEN RECEIVED!
+
+Confirmation description:
+
+"Thank you for choosing Yasir Restaurant & Grill House. Your demo reservation details have been successfully recorded. Your selected seating and booking information are displayed below."
+
+Also display:
+
+"This is a demonstration booking only. No real payment has been processed and the restaurant has not confirmed an actual table reservation."
+
+Add a BACK TO HOME button.
+
+---
+
+# 17. TABLE BOOKING EMAIL RECORD
+
+Send or prepare the reservation information for:
+
+tiktokpakitanmedia344@gmail.com
+
+Capture:
+
+- Customer name.
+- Email.
+- Phone.
+- Location.
+- Table type.
+- Reservation date.
+- Reservation time.
+- Number of guests.
+- Special instructions.
+- Booking reference.
+- Demo payment status.
+
+If a configured email provider is available, implement server-side email notifications.
+
+Otherwise, store the demo booking record locally and provide a pre-filled email draft using mailto.
+
+Never show a false message claiming an email has been delivered.
+
+---
+
+# 18. CONTACT SECTION AND WHATSAPP
+
+Create a professional Contact Us section.
+
+Show:
+
+Restaurant Name:
+Yasir Restaurant & Grill House
+
+Address:
+Plot 45-C, Main Boulevard, Gulberg III, Lahore, Pakistan.
+
+WhatsApp:
++92 300 4567890
+
+Email:
+tiktokpakitanmedia344@gmail.com
+
+Opening Hours:
+Monday – Sunday, 12:30 PM – 01:00 AM.
+
+Add a large WhatsApp button.
+
+Button:
+
+CHAT WITH US ON WHATSAPP
+
+Link:
+
+https://wa.me/923004567890?text=Hello%20Yasir%20Restaurant%2C%20I%20would%20like%20to%20reserve%20a%20table%20%2F%20order%20food%20delivery.
+
+Also add a floating WhatsApp icon at the bottom-right corner.
+
+Make sure it does not cover important website controls on mobile.
+
+---
+
+# 19. FOOTER
+
+Create a premium black footer with elegant orange and gold elements.
+
+Include:
+
+YASIR RESTAURANT & GRILL HOUSE
+
+Short description:
+
+"Great food, signature BBQ, and memorable dining experiences in Gulberg, Lahore."
+
+Quick Links:
+
+- Home
+- Menu
+- About Us
+- Our Specialties
+- Big Deals
+- Gallery
+- Visit Us
+- Contact
+
+Contact information:
+
+Plot 45-C, Main Boulevard, Gulberg III, Lahore, Pakistan.
+
+WhatsApp: +92 300 4567890.
+
+Email: tiktokpakitanmedia344@gmail.com.
+
+Opening Hours: 12:30 PM – 01:00 AM, Every Day.
+
+Copyright:
+
+© 2026 Yasir Restaurant & Grill House. All Rights Reserved.
+
+Do not add fake social media accounts.
+
+---
+
+# 20. TECHNICAL DEVELOPMENT REQUIREMENTS
+
+Build a real functional application using:
+
+- React.
+- TypeScript.
+- Tailwind CSS.
+- Modern reusable components.
+- Lucide icons.
+- Functional React state management.
+- Responsive layouts.
+
+Use a clean project architecture.
+
+Suggested reusable components:
+
+- Navbar
+- HomeSection
+- FeatureStrip
+- MenuSection
+- SearchBar
+- CategoryFilter
+- FoodCard
+- FoodDetailModal
+- CustomerInformationModal
+- DemoPaymentModal
+- PaymentSuccessModal
+- BigDealsSection
+- DealDetailModal
+- AboutSection
+- GallerySection
+- VisitUsSection
+- OpeningHours
+- TableBookingSection
+- TableSelectionModal
+- ReservationFormModal
+- ReservationPaymentModal
+- ContactSection
+- Footer
+- FloatingWhatsAppButton
+
+### Data management
+
+Create centralized data arrays or objects for:
+
+- All food products.
+- Seven categories.
+- Food descriptions.
+- Food images.
+- Prices.
+- Five big deals.
+- Four seating options.
+- Business information.
+- Opening hours.
+
+Use unique IDs for products and deals.
+
+Do not hardcode the same popup information for every product.
+
+Use reusable modal components that receive the correct product or booking information.
+
+### Browser storage
+
+Use localStorage for demo purposes to persist:
+
+- Demo orders.
+- Customer information.
+- Booking records.
+- Payment simulation status.
+
+Avoid losing all order information when a modal closes or the user navigates between website sections.
+
+Do not collect or store actual payment credentials.
+
+---
+
+# 21. QR CODE GENERATION
+
+Use a proper QR code generation library.
+
+Generate unique QR codes for:
+
+- Food orders.
+- Big deals.
+- Table bookings.
+
+Each QR must have a unique demo transaction reference.
+
+QR payload must clearly identify it as a DEMO transaction.
+
+Do not connect to actual banking or payment systems.
+
+The successful payment animation must only happen after the user explicitly clicks the demo confirmation button, or after an actual verified payment event if a real payment provider is integrated in a future version.
+
+For this demonstration, implement the simulated payment button.
+
+Make the QR code visually clear and scannable.
+
+---
+
+# 22. RESPONSIVE DESIGN
+
+The whole website must work perfectly on:
+
+- Desktop computers.
+- Laptops.
+- Tablets.
+- Android phones.
+- iPhones.
+
+Mobile requirements:
+
+- Responsive navigation.
+- Properly sized food cards.
+- Large readable food names.
+- Easy-to-tap Buy buttons.
+- Scrollable popup windows.
+- Proper quantity controls.
+- Full-width mobile forms.
+- QR code that fits the screen.
+- Responsive reservation cards.
+- Fixed WhatsApp button without overlap.
+
+No horizontal scrolling.
+
+No broken layouts.
+
+---
+
+# 23. DESIGN ANIMATIONS
+
+Use professional, smooth animations.
+
+Include:
+
+- Fade-in sections.
+- Subtle card hover effects.
+- Smooth image zoom.
+- Button hover transitions.
+- Modal opening animations.
+- Green tick confirmation animations.
+- Smooth page scrolling.
+- Elegant category switching.
+
+Keep animations lightweight.
+
+Respect reduced-motion preferences.
+
+---
+
+# 24. IMPORTANT TESTING REQUIREMENTS
+
+Before finishing the website, test every interaction.
+
+### Menu testing
+
+- Search must work.
+- Seven category filters must work.
+- Every food card must show its own correct image.
+- Every Buy button must open the correct product popup.
+- Quantity increase and decrease must work.
+- Total price must update correctly.
+- Order Now must open the customer form.
+
+### Ordering testing
+
+- Customer details must validate correctly.
+- Order summary must be correct.
+- QR code must generate successfully.
+- Demo payment simulation must work.
+- QR must change into a green tick.
+- Food name and order details must appear in confirmation.
+- Order record must be saved.
+
+### Big Deals testing
+
+- All five deals must display.
+- Each deal must have its own details.
+- Each Buy button must work.
+- Each deal must use the same ordering flow.
+
+### Table booking testing
+
+- All four seating choices must work.
+- Selecting a table must open the booking form.
+- Customer details must validate.
+- Booking date and time must be captured.
+- Demo QR must generate.
+- Payment simulation must work.
+- Green tick must appear.
+- Correct seating details must appear in confirmation.
+
+### Other website testing
+
+- Navigation links must work.
+- Visit Us section must display correct address.
+- All seven daily opening schedules must appear.
+- WhatsApp button must work.
+- Google Maps directions must work.
+- Footer links must work.
+- Website must be responsive.
+
+Fix all errors before delivering.
+
+---
+
+# 25. FINAL INSTRUCTIONS — DO NOT IGNORE
+
+This is a complete restaurant website project, not a simple homepage design.
+
+I want the entire website built automatically.
+
+Do not stop after creating the hero section.
+
+Do not provide me with only a design preview.
+
+Do not leave placeholder buttons.
+
+Do not leave empty menu categories.
+
+Do not repeat the same 5 products to pretend there are 140 products.
+
+Do not create fake payment success without the user clicking the demo simulation button.
+
+Do not claim that an actual payment, order, booking, or email has been completed when it has not.
+
+Generate the menu data, all seven categories, 140 or more unique food cards, five deal cards, all popup systems, customer forms, QR generation, success screens, four table selections, and all website sections.
+
+Use the uploaded reference images as design inspiration.
+
+Keep the restaurant branding consistent throughout.
+
+Build all components and interactions in one complete, working application.
+
+After implementation, run a complete quality check and fix every broken interaction, layout issue, missing image, and error.
+
+**FINAL GOAL:**
+
+Create a premium, beautiful, modern restaurant website for Yasir Restaurant & Grill House where a customer can:
+
+1. Open the website.
+2. Browse seven food categories.
+3. Search through 140+ food products.
+4. Open any food card.
+5. View a large food image and detailed description.
+6. Choose any quantity.
+7. See the automatically calculated total.
+8. Click Order Now.
+9. Enter personal information.
+10. Receive a unique demo QR code.
+11. Simulate a successful demo payment.
+12. See a green tick and personalized confirmation.
+13. Explore five Big Deals and order them using the same process.
+14. Open the table booking section.
+15. Choose from four seating types.
+16. Enter reservation details.
+17. Receive a demo booking QR code.
+18. Simulate successful demo payment.
+19. See a personalized reservation confirmation.
+
+Everything must work smoothly and look like a premium professional restaurant website.
+
+**Build the complete application now. Do not ask me to create individual sections or implement additional components manually.**

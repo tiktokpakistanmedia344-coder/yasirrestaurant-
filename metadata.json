@@ -1,0 +1,6 @@
+{
+  "name": "Yasir Restaurant & Grill House",
+  "description": "Premium fine-dining restaurant and grill house in Gulberg III, Lahore, featuring smoked BBQ platters, charcoal-grilled steaks, and handcrafted burgers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
